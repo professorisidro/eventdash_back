@@ -28,6 +28,8 @@ public class Usuario {
 	@Column(name = "link_foto", length = 255)
 	private String linkFoto;
 
+	
+	
 	public int getId() {
 		return id;
 	}
